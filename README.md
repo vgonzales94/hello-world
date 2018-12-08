@@ -9,4 +9,10 @@ Hello,
   
  Lots of interesting information...... 
   
+  Been a little while since I've tapped into this read.me, I'm having a lot of trouble 
+  figuring out how to successfully commit from my computer
+  
+  I'm struggling at understanding the terminal
+  
+  
   
