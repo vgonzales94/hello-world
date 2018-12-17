@@ -14,5 +14,7 @@ Hello,
   
   I'm struggling at understanding the terminal
   
-  
+ I still don't fully understand GIT!
+ 
+ ALWAYS TAKE ADVANTAGE OF YOUR OPPORTUNITIES AND RESOURCES
   
